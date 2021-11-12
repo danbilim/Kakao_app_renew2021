@@ -3,6 +3,9 @@ import './App.css';
 import {BrowserRouter, Routes, Route} from 'react-router-dom';
 import Navigation from './components/Navigation'
 import Friends from './routes/Friends';
+import Profile from './routes/Profile';
+import Chats from './routes/Chats';
+import Chatting from './routes/Chatting';
 import './reset.css'
 
 function App() {
@@ -10,6 +13,9 @@ function App() {
     <BrowserRouter basename={process.env.PUBLIC_URL}>
       <Routes>
         <Route path="/" element={<Friends />} />
+        <Route path="/profile" element={<Profile />} />
+        <Route path="/chats" element={<Chats />} />
+        <Route path="/chatting" element={<Chatting />} />
       </Routes>
       <Navigation />
     </BrowserRouter>
