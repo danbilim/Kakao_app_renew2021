@@ -1,5 +1,6 @@
 import React from 'react'
 import Headerstatus from '../components/Headerstatus'
+import Navigation from '../components/Navigation'
 import friends from '../data/FriendList.json'
 import FriendList from '../components/FriendList'
 import {Link} from 'react-router-dom';
@@ -67,6 +68,7 @@ function Friends() {
                 </div>
             </section>
         </main>
+        <Navigation />
         </>
     )
 }

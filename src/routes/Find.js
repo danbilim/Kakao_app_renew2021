@@ -1,5 +1,6 @@
 import React from 'react'
 import Headerstatus from '../components/Headerstatus'
+import Navigation from '../components/Navigation'
 import {Link} from 'react-router-dom';
 import '../styles/Headerstyle.scss'
 import '../styles/Find.scss'
@@ -31,6 +32,7 @@ function Find() {
                 </ul>
             </section>
         </main>
+        <Navigation />
         </>
     )
 }

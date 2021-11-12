@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 import './App.css';
 import {BrowserRouter, Routes, Route} from 'react-router-dom';
-import Navigation from './components/Navigation'
 import Friends from './routes/Friends';
 import Profile from './routes/Profile';
 import Chats from './routes/Chats';
@@ -21,7 +20,6 @@ function App() {
         <Route path="/find" element={<Find />} />
         <Route path="/more" element={<More />} />
       </Routes>
-      <Navigation />
     </BrowserRouter>
   );
 }

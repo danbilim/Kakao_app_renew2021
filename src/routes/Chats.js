@@ -1,5 +1,6 @@
 import React from 'react'
 import Headerstatus from '../components/Headerstatus'
+import Navigation from '../components/Navigation'
 import friends from '../data/FriendList.json'
 import ChatList from '../components/ChatList'
 import {Link} from 'react-router-dom';
@@ -66,6 +67,7 @@ function Chats() {
                 </ul> */}
             </section>
         </main>
+        <Navigation />
         </>
     )
 }
