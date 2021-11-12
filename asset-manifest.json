@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/Kakao_app_renew2021/static/css/main.717f81cb.chunk.css",
-    "main.js": "/Kakao_app_renew2021/static/js/main.e93a027a.chunk.js",
-    "main.js.map": "/Kakao_app_renew2021/static/js/main.e93a027a.chunk.js.map",
+    "main.js": "/Kakao_app_renew2021/static/js/main.af6b8b9b.chunk.js",
+    "main.js.map": "/Kakao_app_renew2021/static/js/main.af6b8b9b.chunk.js.map",
     "runtime-main.js": "/Kakao_app_renew2021/static/js/runtime-main.58665e69.js",
     "runtime-main.js.map": "/Kakao_app_renew2021/static/js/runtime-main.58665e69.js.map",
-    "static/js/2.2ca7852e.chunk.js": "/Kakao_app_renew2021/static/js/2.2ca7852e.chunk.js",
-    "static/js/2.2ca7852e.chunk.js.map": "/Kakao_app_renew2021/static/js/2.2ca7852e.chunk.js.map",
+    "static/js/2.32a1a6be.chunk.js": "/Kakao_app_renew2021/static/js/2.32a1a6be.chunk.js",
+    "static/js/2.32a1a6be.chunk.js.map": "/Kakao_app_renew2021/static/js/2.32a1a6be.chunk.js.map",
     "index.html": "/Kakao_app_renew2021/index.html",
     "static/css/main.717f81cb.chunk.css.map": "/Kakao_app_renew2021/static/css/main.717f81cb.chunk.css.map",
-    "static/js/2.2ca7852e.chunk.js.LICENSE.txt": "/Kakao_app_renew2021/static/js/2.2ca7852e.chunk.js.LICENSE.txt"
+    "static/js/2.32a1a6be.chunk.js.LICENSE.txt": "/Kakao_app_renew2021/static/js/2.32a1a6be.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.58665e69.js",
-    "static/js/2.2ca7852e.chunk.js",
+    "static/js/2.32a1a6be.chunk.js",
     "static/css/main.717f81cb.chunk.css",
-    "static/js/main.e93a027a.chunk.js"
+    "static/js/main.af6b8b9b.chunk.js"
   ]
 }
