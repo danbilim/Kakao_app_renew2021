@@ -7,9 +7,12 @@ import './reset.css'
 
 function App() {
   return (
-    <div class='app'>
-      test!
-    </div>
+    <BrowserRouter basename={process.env.PUBLIC_URL}>
+      <Routes>
+        <Route path="/" element={<Friends />} />
+      </Routes>
+      <Navigation />
+    </BrowserRouter>
   );
 }
 
