@@ -1,20 +1,21 @@
 {
   "files": {
-    "main.css": "/Kakao_app_renew2021/static/css/main.717f81cb.chunk.css",
-    "main.js": "/Kakao_app_renew2021/static/js/main.af6b8b9b.chunk.js",
-    "main.js.map": "/Kakao_app_renew2021/static/js/main.af6b8b9b.chunk.js.map",
+    "main.css": "/Kakao_app_renew2021/static/css/main.577d1123.chunk.css",
+    "main.js": "/Kakao_app_renew2021/static/js/main.ddfa451d.chunk.js",
+    "main.js.map": "/Kakao_app_renew2021/static/js/main.ddfa451d.chunk.js.map",
     "runtime-main.js": "/Kakao_app_renew2021/static/js/runtime-main.58665e69.js",
     "runtime-main.js.map": "/Kakao_app_renew2021/static/js/runtime-main.58665e69.js.map",
-    "static/js/2.32a1a6be.chunk.js": "/Kakao_app_renew2021/static/js/2.32a1a6be.chunk.js",
-    "static/js/2.32a1a6be.chunk.js.map": "/Kakao_app_renew2021/static/js/2.32a1a6be.chunk.js.map",
+    "static/js/2.13503725.chunk.js": "/Kakao_app_renew2021/static/js/2.13503725.chunk.js",
+    "static/js/2.13503725.chunk.js.map": "/Kakao_app_renew2021/static/js/2.13503725.chunk.js.map",
     "index.html": "/Kakao_app_renew2021/index.html",
-    "static/css/main.717f81cb.chunk.css.map": "/Kakao_app_renew2021/static/css/main.717f81cb.chunk.css.map",
-    "static/js/2.32a1a6be.chunk.js.LICENSE.txt": "/Kakao_app_renew2021/static/js/2.32a1a6be.chunk.js.LICENSE.txt"
+    "static/css/main.577d1123.chunk.css.map": "/Kakao_app_renew2021/static/css/main.577d1123.chunk.css.map",
+    "static/js/2.13503725.chunk.js.LICENSE.txt": "/Kakao_app_renew2021/static/js/2.13503725.chunk.js.LICENSE.txt",
+    "static/media/Profile.scss": "/Kakao_app_renew2021/static/media/bg_default.82687b4e.png"
   },
   "entrypoints": [
     "static/js/runtime-main.58665e69.js",
-    "static/js/2.32a1a6be.chunk.js",
-    "static/css/main.717f81cb.chunk.css",
-    "static/js/main.af6b8b9b.chunk.js"
+    "static/js/2.13503725.chunk.js",
+    "static/css/main.577d1123.chunk.css",
+    "static/js/main.ddfa451d.chunk.js"
   ]
 }
