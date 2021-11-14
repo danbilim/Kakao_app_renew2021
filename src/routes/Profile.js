@@ -28,7 +28,7 @@ function Profile() {
                     <Link to="/"><i className="fas fa-times"></i></Link>
                 </div>
                 <div className="right_item">
-                    <Link to="#"><i className="fas fa-user"></i></Link>
+                    <Link to="/"><i className="fas fa-user"></i></Link>
                 </div>
             </div>
         </header>
