@@ -16,13 +16,11 @@
             }   
         }
         .right_item {
-            a{
+            i{
                 color:#000;
                 font-size:16px;
-            }
-
-            i{
                 padding-left:5px;
+                cursor:pointer;
             }
         }
     }

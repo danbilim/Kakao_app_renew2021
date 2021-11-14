@@ -22,7 +22,7 @@ function Chatting() {
                     <Link to="/chats"><i className="fas fa-angle-left"></i></Link>
                 </div>
                 <div className="right_item">
-                    <Link to="#"><i className="fas fa-search"></i><i className="fas fa-bars"></i></Link>
+                    <i className="fas fa-search"></i><i className="fas fa-bars"></i>
                 </div>
             </div>
         </header>
